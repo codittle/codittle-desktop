@@ -27,9 +27,9 @@ Installed builds keep themselves up to date.
 
 One local workspace bringing together:
 
-- **Codittle Code** — jBASE / Transact routine development: browse, edit, and
+- **Codittle Code** — jBASE / core banking routine development: browse, edit, and
   SSH-deploy routines to a live server, with an embedded terminal.
-- **OFS Playground** — compose and send OFS messages.
+- **Remote Socket Playground** — compose and send remote socket messages.
 - **Port Checker** — probe services over SSH.
 - **Claude Code terminal** — embedded AI coding assistant.
 - **Canvas** and **Code Origins** — visual flow building and living software.
